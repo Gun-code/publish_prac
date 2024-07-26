@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Cohort8thApplication<cohort8th>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.cohort8th.Cohort8thApplication",
+      "projectName": "cohort8th",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
